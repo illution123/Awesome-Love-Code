@@ -24,7 +24,7 @@ export default class App extends React.Component {
     fullStyle = [
         `/*
 * Hi。！
-* 这么久了。我还是介绍一下我的工作吧！
+* 我还是介绍一下我的工作吧！
 * 我是个一名警察。
 * 虽然这个页面就是个什么也没有的网页。
 * 但是我也可以给他加一点东西。
